@@ -35,8 +35,15 @@ public class charpractice {
 
 
 
-     int numberchar = 'T';
+        int numberchar = 'T';
         System.out.println(numberchar);
+
+
+        int me = 'y';
+        System.out.println(me);
+
+        byte me1 = 't';
+        System.out.println(me1);
 
         char randomChar = 2345;
         System.out.println(randomChar);

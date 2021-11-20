@@ -7,7 +7,7 @@ public class BooleanPractice {
         boolean isHungry = true;
         System.out.println(isHungry);
 
-        int number = 11;
+        int number = 8;
         System.out.println(number);
 
         boolean isLighton = false;
@@ -26,8 +26,10 @@ public class BooleanPractice {
 
 
 
+      char you = 7;
 
 
+        System.out.println(you );
 
 
 
